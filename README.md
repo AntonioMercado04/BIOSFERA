@@ -21,11 +21,11 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-<img src="Diagrama/diagramabiosfera.png" width="300">
+<img src="Diagrama/Diagramabiosfera.png" width="300">
 
 
 ## Código
-[led13.ino](Codigo/Biosfera.ino.ino)
+[Biosfera.ino](Codigo/Biosfera.ino.ino)
 
 
 
