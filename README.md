@@ -37,7 +37,7 @@ Enumera todos los componentes usados:
 
 ## Evidencias de armado
 
-<img src="Diagrama/diagramabiosfera.png" width="300">
+<img src="Diagrama/Diagramabiosfera.png" width="300">
 
 ## Reporte
 Incluye:
@@ -47,7 +47,7 @@ Incluye:
 Con esta práctica se comprobó que un Arduino, junto con un sensor de humedad económico, permite monitorear el estado del suelo de forma automática y confiable. Se comprendió que las lecturas del sensor no son valores absolutos, sino que dependen de la calibración: fue necesario medir el sensor en seco y en mojado y ajustar los valores VALOR_SECO y VALOR_MOJADO para obtener un porcentaje de humedad realista. También se observó la importancia de la depuración, ya que errores como una placa mal seleccionada, un puerto incorrecto o un carácter sobrante en el código impiden que el programa funcione, y un sensor desconectado puede interpretarse como tierra seca si no se valida la lectura. En conjunto, la práctica muestra que este tipo de sistemas puede aplicarse al riego eficiente, evitando el desperdicio de agua y regando solo cuando el suelo lo requiere, lo cual se relaciona directamente con los objetivos del Desarrollo Sustentable.
 
 ## Resultados
-[Resultados.pdf](Resutados/Resultados.pdf)
+[Resultados.pdf](Resultados/Resultados.pdf)
 
 Este documento contiene la descripción de la práctica, objetivos y procedimientos realizados.
 
